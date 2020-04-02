@@ -9,7 +9,7 @@ class RedisDemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("///");
-        System.out.println("test branch ");
+        System.out.println("test branch ??????");
     }
 
 }
