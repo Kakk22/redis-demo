@@ -8,6 +8,7 @@ class RedisDemoApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("///");
     }
 
 }
